@@ -1,0 +1,18 @@
+.user-photos-container {
+  padding: 20px;
+}
+
+.photo-card {
+  margin-bottom: 20px;
+}
+
+.photo-image {
+  max-width: 100%;
+  height: auto;
+}
+
+.photo-comments {
+  margin-top: 10px;
+  padding-left: 10px;
+  border-left: 2px solid #ccc;
+}

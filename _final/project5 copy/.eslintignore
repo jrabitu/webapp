@@ -1,0 +1,8 @@
+**/webpack.config.js
+**/bundle.js
+**/node_modules
+
+photoShare.bundle.js
+compiled/
+dist/
+node_modules/
