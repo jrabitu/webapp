@@ -1,0 +1,21 @@
+.user-list-container {
+  margin-top: 2px;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+}
+
+.user-list-link{
+  text-decoration: none;
+  color: #333333;
+}
+
+.user-list-item {
+  margin-top: 40px;
+  border-radius: 8px;
+  transition: background-color 0.3s;
+}
+
+.user-list-item:hover {
+  background-color: #1E65D7;
+}
